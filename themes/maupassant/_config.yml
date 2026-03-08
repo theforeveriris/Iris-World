@@ -125,7 +125,7 @@ widgets: ## Seven widgets in sidebar provided: search, info, category, tag, rece
   - links
 
 info:
-  avatar: /img/avatar.png
+  avatar: https://avatars.githubusercontent.com/u/224955300?s=400&u=0949bc8aa7f0753fa7c918f7a29d9ef800396f17&v=4
   discription: "Ciallo～(∠・ω< )⌒★, I'm Iris (Moon). 不知道写什么喵，普普通通双非一本计科院学生 （快过期） 一枚，擅长给自己挖一万个新坑但什么都不去填。"
   outlinkitem:
     - name: github
