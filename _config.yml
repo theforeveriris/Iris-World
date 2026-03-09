@@ -103,6 +103,6 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/theforeveriris/Iris-World.git
+  repo: git@github.com:theforeveriris/Iris-World.git
   branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
